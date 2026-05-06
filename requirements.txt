@@ -1,4 +1,7 @@
 langchain
+langchain-classic
+langchain-community
 langchain-pinecone
 langchain-google-genai
 python-dotenv
+pymupdf
